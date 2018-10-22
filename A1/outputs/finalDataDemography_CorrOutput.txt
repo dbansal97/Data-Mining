@@ -1,0 +1,214 @@
+=> Child sex ratio in population (0-6 age group) - Total - 2001_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Child sex ratio in population (0-6 age group) - Total - 2001_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Child sex ratio in population (0-6 age group) - Total - 2011_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Child sex ratio in population (0-6 age group) - Total - 2011_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= are negatively correlated
+=> Child sex ratio in population (0-6 age group) - Total - 2011_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Child sex ratio in population (0-6 age group) - Total - 2011_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Child sex ratio in population (0-6 age group) - Rural - 2001_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Child sex ratio in population (0-6 age group) - Rural - 2001_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= are negatively correlated
+=> Child sex ratio in population (0-6 age group) - Rural - 2001_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Child sex ratio in population (0-6 age group) - Rural - 2011_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Child sex ratio in population (0-6 age group) - Rural - 2011_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Child sex ratio in population (0-6 age group) - Rural - 2011_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Child sex ratio in population (0-6 age group) - Urban - 2001_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Child sex ratio in population (0-6 age group) - Urban - 2001_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Child sex ratio in population (0-6 age group) - Urban - 2001_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Child sex ratio in population (0-6 age group) - Urban - 2011_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Child sex ratio in population (0-6 age group) - Urban - 2011_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= are negatively correlated
+=> Child sex ratio in population (0-6 age group) - Urban - 2011_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Child sex ratio in population (0-6 age group) - Urban - 2011_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Total - 2001_child-sex-ratio-0-6-years_demography <= are negatively correlated
+=> Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Total - 2011_child-sex-ratio-0-6-years_demography <= are negatively correlated
+=> Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Rural - 2001_child-sex-ratio-0-6-years_demography <= are negatively correlated
+=> Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Rural - 2011_child-sex-ratio-0-6-years_demography <= are negatively correlated
+=> Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Urban - 2001_child-sex-ratio-0-6-years_demography <= are negatively correlated
+=> Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Urban - 2011_child-sex-ratio-0-6-years_demography <= are negatively correlated
+=> Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Total - 2001_sex-ratio_demography <= are negatively correlated
+=> Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Total - 2011_sex-ratio_demography <= are negatively correlated
+=> Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Rural - 2001_sex-ratio_demography <= are negatively correlated
+=> Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Rural - 2011_sex-ratio_demography <= are negatively correlated
+=> Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Urban - 2001_sex-ratio_demography <= are negatively correlated
+=> Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Urban - 2011_sex-ratio_demography <= are negatively correlated
+=> Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Total - 2011_child-sex-ratio-0-6-years_demography <= are negatively correlated
+=> Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Rural - 2001_child-sex-ratio-0-6-years_demography <= are negatively correlated
+=> Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Urban - 2011_child-sex-ratio-0-6-years_demography <= are negatively correlated
+=> Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= and => Sex ratio of total population - Total - 2001_sex-ratio_demography <= are negatively correlated
+=> Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= and => Sex ratio of total population - Total - 2011_sex-ratio_demography <= are negatively correlated
+=> Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= and => Sex ratio of total population - Rural - 2001_sex-ratio_demography <= are negatively correlated
+=> Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= and => Sex ratio of total population - Rural - 2011_sex-ratio_demography <= are negatively correlated
+=> Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= and => Sex ratio of total population - Urban - 2011_sex-ratio_demography <= are negatively correlated
+=> Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Total - 2011_child-sex-ratio-0-6-years_demography <= are negatively correlated
+=> Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Rural - 2011_child-sex-ratio-0-6-years_demography <= are negatively correlated
+=> Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Urban - 2001_child-sex-ratio-0-6-years_demography <= are negatively correlated
+=> Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Urban - 2011_child-sex-ratio-0-6-years_demography <= are negatively correlated
+=> Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Total - 2001_sex-ratio_demography <= are negatively correlated
+=> Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Total - 2011_sex-ratio_demography <= are negatively correlated
+=> Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Rural - 2001_sex-ratio_demography <= are negatively correlated
+=> Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Rural - 2011_sex-ratio_demography <= are negatively correlated
+=> Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Urban - 2001_sex-ratio_demography <= are negatively correlated
+=> Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Urban - 2011_sex-ratio_demography <= are negatively correlated
+=> Decadal growth rate - Rural - 2001-11_decadal-growth-rate_demography <= and => Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Decadal growth rate - Rural - 2001-11_decadal-growth-rate_demography <= and => Decadal growth rate - Urban - 2001-11_decadal-growth-rate_demography <= are negatively correlated
+=> Decadal growth rate - Rural - 2001-11_decadal-growth-rate_demography <= and => Sex ratio of total population - Urban - 2001_sex-ratio_demography <= are negatively correlated
+=> Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Total - 2001_child-sex-ratio-0-6-years_demography <= are negatively correlated
+=> Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Total - 2011_child-sex-ratio-0-6-years_demography <= are negatively correlated
+=> Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Rural - 2001_child-sex-ratio-0-6-years_demography <= are negatively correlated
+=> Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Rural - 2011_child-sex-ratio-0-6-years_demography <= are negatively correlated
+=> Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Urban - 2001_child-sex-ratio-0-6-years_demography <= are negatively correlated
+=> Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Urban - 2011_child-sex-ratio-0-6-years_demography <= are negatively correlated
+=> Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= and => Decadal growth rate - Rural - 2001-11_decadal-growth-rate_demography <= are negatively correlated
+=> Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= and => Decadal growth rate - Urban - 2001-11_decadal-growth-rate_demography <= are negatively correlated
+=> Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Total - 2001_sex-ratio_demography <= are negatively correlated
+=> Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Total - 2011_sex-ratio_demography <= are negatively correlated
+=> Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Rural - 2001_sex-ratio_demography <= are negatively correlated
+=> Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Rural - 2011_sex-ratio_demography <= are negatively correlated
+=> Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Urban - 2001_sex-ratio_demography <= are negatively correlated
+=> Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Urban - 2011_sex-ratio_demography <= are negatively correlated
+=> Decadal growth rate - Urban - 2001-11_decadal-growth-rate_demography <= and => Decadal growth rate - Rural - 2001-11_decadal-growth-rate_demography <= are negatively correlated
+=> Decadal growth rate - Urban - 2001-11_decadal-growth-rate_demography <= and => Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Decadal growth rate - Urban - 2001-11_decadal-growth-rate_demography <= and => Sex ratio of total population - Total - 2011_sex-ratio_demography <= are negatively correlated
+=> Decadal growth rate - Urban - 2001-11_decadal-growth-rate_demography <= and => Sex ratio of total population - Rural - 2001_sex-ratio_demography <= are negatively correlated
+=> Sex ratio of total population - Total - 2001_sex-ratio_demography <= and => Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Sex ratio of total population - Total - 2001_sex-ratio_demography <= and => Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= are negatively correlated
+=> Sex ratio of total population - Total - 2001_sex-ratio_demography <= and => Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Sex ratio of total population - Total - 2001_sex-ratio_demography <= and => Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Sex ratio of total population - Total - 2011_sex-ratio_demography <= and => Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Sex ratio of total population - Total - 2011_sex-ratio_demography <= and => Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= are negatively correlated
+=> Sex ratio of total population - Total - 2011_sex-ratio_demography <= and => Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Sex ratio of total population - Total - 2011_sex-ratio_demography <= and => Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Sex ratio of total population - Total - 2011_sex-ratio_demography <= and => Decadal growth rate - Urban - 2001-11_decadal-growth-rate_demography <= are negatively correlated
+=> Sex ratio of total population - Rural - 2001_sex-ratio_demography <= and => Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Sex ratio of total population - Rural - 2001_sex-ratio_demography <= and => Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= are negatively correlated
+=> Sex ratio of total population - Rural - 2001_sex-ratio_demography <= and => Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Sex ratio of total population - Rural - 2001_sex-ratio_demography <= and => Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Sex ratio of total population - Rural - 2001_sex-ratio_demography <= and => Decadal growth rate - Urban - 2001-11_decadal-growth-rate_demography <= are negatively correlated
+=> Sex ratio of total population - Rural - 2011_sex-ratio_demography <= and => Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Sex ratio of total population - Rural - 2011_sex-ratio_demography <= and => Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= are negatively correlated
+=> Sex ratio of total population - Rural - 2011_sex-ratio_demography <= and => Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Sex ratio of total population - Rural - 2011_sex-ratio_demography <= and => Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Sex ratio of total population - Urban - 2001_sex-ratio_demography <= and => Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Sex ratio of total population - Urban - 2001_sex-ratio_demography <= and => Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Sex ratio of total population - Urban - 2001_sex-ratio_demography <= and => Decadal growth rate - Rural - 2001-11_decadal-growth-rate_demography <= are negatively correlated
+=> Sex ratio of total population - Urban - 2001_sex-ratio_demography <= and => Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Sex ratio of total population - Urban - 2011_sex-ratio_demography <= and => Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Sex ratio of total population - Urban - 2011_sex-ratio_demography <= and => Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= are negatively correlated
+=> Sex ratio of total population - Urban - 2011_sex-ratio_demography <= and => Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+=> Sex ratio of total population - Urban - 2011_sex-ratio_demography <= and => Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= are negatively correlated
+
+<============================================>
+
+
+<============================================>
+
+=> Child sex ratio in population (0-6 age group) - Total - 2001_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= are independent
+=> Child sex ratio in population (0-6 age group) - Total - 2001_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= are independent
+=> Child sex ratio in population (0-6 age group) - Total - 2001_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= are independent
+=> Child sex ratio in population (0-6 age group) - Total - 2011_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= are independent
+=> Child sex ratio in population (0-6 age group) - Total - 2011_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= are independent
+=> Child sex ratio in population (0-6 age group) - Total - 2011_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= are independent
+=> Child sex ratio in population (0-6 age group) - Total - 2011_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= are independent
+=> Child sex ratio in population (0-6 age group) - Rural - 2001_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= are independent
+=> Child sex ratio in population (0-6 age group) - Rural - 2001_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= are independent
+=> Child sex ratio in population (0-6 age group) - Rural - 2001_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= are independent
+=> Child sex ratio in population (0-6 age group) - Rural - 2011_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= are independent
+=> Child sex ratio in population (0-6 age group) - Rural - 2011_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= are independent
+=> Child sex ratio in population (0-6 age group) - Rural - 2011_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= are independent
+=> Child sex ratio in population (0-6 age group) - Rural - 2011_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= are independent
+=> Child sex ratio in population (0-6 age group) - Urban - 2001_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= are independent
+=> Child sex ratio in population (0-6 age group) - Urban - 2001_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= are independent
+=> Child sex ratio in population (0-6 age group) - Urban - 2001_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= are independent
+=> Child sex ratio in population (0-6 age group) - Urban - 2011_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= are independent
+=> Child sex ratio in population (0-6 age group) - Urban - 2011_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= are independent
+=> Child sex ratio in population (0-6 age group) - Urban - 2011_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= are independent
+=> Child sex ratio in population (0-6 age group) - Urban - 2011_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Rural - 2001-11_decadal-growth-rate_demography <= are independent
+=> Child sex ratio in population (0-6 age group) - Urban - 2011_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= are independent
+=> Child sex ratio in population (0-6 age group) - Urban - 2011_child-sex-ratio-0-6-years_demography <= and => Decadal growth rate - Urban - 2001-11_decadal-growth-rate_demography <= are independent
+=> Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Total - 2001_child-sex-ratio-0-6-years_demography <= are independent
+=> Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Total - 2011_child-sex-ratio-0-6-years_demography <= are independent
+=> Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Rural - 2001_child-sex-ratio-0-6-years_demography <= are independent
+=> Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Rural - 2011_child-sex-ratio-0-6-years_demography <= are independent
+=> Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Urban - 2001_child-sex-ratio-0-6-years_demography <= are independent
+=> Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Urban - 2011_child-sex-ratio-0-6-years_demography <= are independent
+=> Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Total - 2001_sex-ratio_demography <= are independent
+=> Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Total - 2011_sex-ratio_demography <= are independent
+=> Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Rural - 2001_sex-ratio_demography <= are independent
+=> Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Rural - 2011_sex-ratio_demography <= are independent
+=> Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Urban - 2001_sex-ratio_demography <= are independent
+=> Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Urban - 2011_sex-ratio_demography <= are independent
+=> Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Total - 2011_child-sex-ratio-0-6-years_demography <= are independent
+=> Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Rural - 2001_child-sex-ratio-0-6-years_demography <= are independent
+=> Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Rural - 2011_child-sex-ratio-0-6-years_demography <= are independent
+=> Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Urban - 2011_child-sex-ratio-0-6-years_demography <= are independent
+=> Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= and => Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= are independent
+=> Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= and => Sex ratio of total population - Total - 2001_sex-ratio_demography <= are independent
+=> Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= and => Sex ratio of total population - Total - 2011_sex-ratio_demography <= are independent
+=> Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= and => Sex ratio of total population - Rural - 2001_sex-ratio_demography <= are independent
+=> Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= and => Sex ratio of total population - Rural - 2011_sex-ratio_demography <= are independent
+=> Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= and => Sex ratio of total population - Urban - 2001_sex-ratio_demography <= are independent
+=> Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= and => Sex ratio of total population - Urban - 2011_sex-ratio_demography <= are independent
+=> Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Total - 2001_child-sex-ratio-0-6-years_demography <= are independent
+=> Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Total - 2011_child-sex-ratio-0-6-years_demography <= are independent
+=> Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Rural - 2011_child-sex-ratio-0-6-years_demography <= are independent
+=> Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Urban - 2001_child-sex-ratio-0-6-years_demography <= are independent
+=> Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Urban - 2011_child-sex-ratio-0-6-years_demography <= are independent
+=> Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Total - 2001_sex-ratio_demography <= are independent
+=> Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Total - 2011_sex-ratio_demography <= are independent
+=> Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Rural - 2001_sex-ratio_demography <= are independent
+=> Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Rural - 2011_sex-ratio_demography <= are independent
+=> Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Urban - 2001_sex-ratio_demography <= are independent
+=> Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Urban - 2011_sex-ratio_demography <= are independent
+=> Decadal growth rate - Rural - 2001-11_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Urban - 2011_child-sex-ratio-0-6-years_demography <= are independent
+=> Decadal growth rate - Rural - 2001-11_decadal-growth-rate_demography <= and => Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= are independent
+=> Decadal growth rate - Rural - 2001-11_decadal-growth-rate_demography <= and => Decadal growth rate - Urban - 2001-11_decadal-growth-rate_demography <= are independent
+=> Decadal growth rate - Rural - 2001-11_decadal-growth-rate_demography <= and => Sex ratio of total population - Urban - 2001_sex-ratio_demography <= are independent
+=> Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Total - 2001_child-sex-ratio-0-6-years_demography <= are independent
+=> Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Total - 2011_child-sex-ratio-0-6-years_demography <= are independent
+=> Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Rural - 2001_child-sex-ratio-0-6-years_demography <= are independent
+=> Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Rural - 2011_child-sex-ratio-0-6-years_demography <= are independent
+=> Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Urban - 2001_child-sex-ratio-0-6-years_demography <= are independent
+=> Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Urban - 2011_child-sex-ratio-0-6-years_demography <= are independent
+=> Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= and => Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= are independent
+=> Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= and => Decadal growth rate - Rural - 2001-11_decadal-growth-rate_demography <= are independent
+=> Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= and => Decadal growth rate - Urban - 2001-11_decadal-growth-rate_demography <= are independent
+=> Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Total - 2001_sex-ratio_demography <= are independent
+=> Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Total - 2011_sex-ratio_demography <= are independent
+=> Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Rural - 2001_sex-ratio_demography <= are independent
+=> Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Rural - 2011_sex-ratio_demography <= are independent
+=> Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Urban - 2001_sex-ratio_demography <= are independent
+=> Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= and => Sex ratio of total population - Urban - 2011_sex-ratio_demography <= are independent
+=> Decadal growth rate - Urban - 2001-11_decadal-growth-rate_demography <= and => Child sex ratio in population (0-6 age group) - Urban - 2011_child-sex-ratio-0-6-years_demography <= are independent
+=> Decadal growth rate - Urban - 2001-11_decadal-growth-rate_demography <= and => Decadal growth rate - Rural - 2001-11_decadal-growth-rate_demography <= are independent
+=> Decadal growth rate - Urban - 2001-11_decadal-growth-rate_demography <= and => Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= are independent
+=> Decadal growth rate - Urban - 2001-11_decadal-growth-rate_demography <= and => Sex ratio of total population - Total - 2001_sex-ratio_demography <= are independent
+=> Decadal growth rate - Urban - 2001-11_decadal-growth-rate_demography <= and => Sex ratio of total population - Total - 2011_sex-ratio_demography <= are independent
+=> Decadal growth rate - Urban - 2001-11_decadal-growth-rate_demography <= and => Sex ratio of total population - Rural - 2001_sex-ratio_demography <= are independent
+=> Decadal growth rate - Urban - 2001-11_decadal-growth-rate_demography <= and => Sex ratio of total population - Rural - 2011_sex-ratio_demography <= are independent
+=> Sex ratio of total population - Total - 2001_sex-ratio_demography <= and => Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= are independent
+=> Sex ratio of total population - Total - 2001_sex-ratio_demography <= and => Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= are independent
+=> Sex ratio of total population - Total - 2001_sex-ratio_demography <= and => Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= are independent
+=> Sex ratio of total population - Total - 2001_sex-ratio_demography <= and => Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= are independent
+=> Sex ratio of total population - Total - 2001_sex-ratio_demography <= and => Decadal growth rate - Urban - 2001-11_decadal-growth-rate_demography <= are independent
+=> Sex ratio of total population - Total - 2011_sex-ratio_demography <= and => Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= are independent
+=> Sex ratio of total population - Total - 2011_sex-ratio_demography <= and => Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= are independent
+=> Sex ratio of total population - Total - 2011_sex-ratio_demography <= and => Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= are independent
+=> Sex ratio of total population - Total - 2011_sex-ratio_demography <= and => Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= are independent
+=> Sex ratio of total population - Total - 2011_sex-ratio_demography <= and => Decadal growth rate - Urban - 2001-11_decadal-growth-rate_demography <= are independent
+=> Sex ratio of total population - Rural - 2001_sex-ratio_demography <= and => Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= are independent
+=> Sex ratio of total population - Rural - 2001_sex-ratio_demography <= and => Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= are independent
+=> Sex ratio of total population - Rural - 2001_sex-ratio_demography <= and => Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= are independent
+=> Sex ratio of total population - Rural - 2001_sex-ratio_demography <= and => Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= are independent
+=> Sex ratio of total population - Rural - 2001_sex-ratio_demography <= and => Decadal growth rate - Urban - 2001-11_decadal-growth-rate_demography <= are independent
+=> Sex ratio of total population - Rural - 2011_sex-ratio_demography <= and => Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= are independent
+=> Sex ratio of total population - Rural - 2011_sex-ratio_demography <= and => Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= are independent
+=> Sex ratio of total population - Rural - 2011_sex-ratio_demography <= and => Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= are independent
+=> Sex ratio of total population - Rural - 2011_sex-ratio_demography <= and => Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= are independent
+=> Sex ratio of total population - Rural - 2011_sex-ratio_demography <= and => Decadal growth rate - Urban - 2001-11_decadal-growth-rate_demography <= are independent
+=> Sex ratio of total population - Urban - 2001_sex-ratio_demography <= and => Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= are independent
+=> Sex ratio of total population - Urban - 2001_sex-ratio_demography <= and => Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= are independent
+=> Sex ratio of total population - Urban - 2001_sex-ratio_demography <= and => Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= are independent
+=> Sex ratio of total population - Urban - 2001_sex-ratio_demography <= and => Decadal growth rate - Rural - 2001-11_decadal-growth-rate_demography <= are independent
+=> Sex ratio of total population - Urban - 2001_sex-ratio_demography <= and => Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= are independent
+=> Sex ratio of total population - Urban - 2011_sex-ratio_demography <= and => Decadal growth rate - Total - 1991-01_decadal-growth-rate_demography <= are independent
+=> Sex ratio of total population - Urban - 2011_sex-ratio_demography <= and => Decadal growth rate - Total - 2001-11_decadal-growth-rate_demography <= are independent
+=> Sex ratio of total population - Urban - 2011_sex-ratio_demography <= and => Decadal growth rate - Rural - 1991-01_decadal-growth-rate_demography <= are independent
+=> Sex ratio of total population - Urban - 2011_sex-ratio_demography <= and => Decadal growth rate - Urban - 1991-01_decadal-growth-rate_demography <= are independent
